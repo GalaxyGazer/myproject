@@ -9,4 +9,8 @@ public class HelloWorld {
     private void test() {
         System.out.println("Hello, WOrld!");
     }
+	
+    private void test2() {
+        System.out.println("Hello!");
+    }
 }
